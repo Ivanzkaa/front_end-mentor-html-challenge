@@ -32,6 +32,8 @@ h1 {
 
 img {
     max-width: 100%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
 
 .image {
